@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Ruby on rails, Javascript, nodeJS**
  
-- 👩‍💻 My projects ath the bootcamp were
-      VAK:<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">
-      SkyRentelz:<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">
+- 👩‍💻 My projects at the bootcamp were <br>
+       <p> 🍜	<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">VAK</a> - An AI Recipe Generator App <br>
+           🛩️ <a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">SkyRentelz</a> - AirBnB Clone to lend and rent private jets</p>
 
 - 📫 How to reach me **lindawilson.may21@gmail.com**
 
