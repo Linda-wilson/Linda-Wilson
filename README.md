@@ -2,6 +2,10 @@
 <h3 align="center">I am Junior Web Developer, and passionate in working on ruby on rails projects</h3>
 
 - 🌱 I’m currently learning **Ruby on rails, Javascript, nodeJS**
+ 
+- 👩‍💻 My projects ath the bootcamp were
+      VAK:<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">
+      SkyRentelz:<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">
 
 - 📫 How to reach me **lindawilson.may21@gmail.com**
 
