@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linda Wilson</h1>
-<h3 align="center">I am Junior Web Developer, and passionate in working on rails projects</h3>
+<h3 align="center">I am Junior Web Developer, and passionate in working on ruby on rails projects</h3>
 
 - 🌱 I’m currently learning **Ruby on rails, Javascript, nodeJS**
 
