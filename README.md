@@ -5,7 +5,7 @@
  
 - 👩‍💻 My projects at the bootcamp were <br>
        <p> -<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">VAK</a> - An AI Recipe Generator App <br>
-           -<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">SkyRentelz</a> - AirBnB Clone to lend and rent private jets</p>
+           -<a href="https://github.com/ArthurRohr/SkyRentalz" target="blank">SkyRentalz</a> - AirBnB Clone to lend and rent private jets</p>
 
 - 📫 How to reach me **lindawilson.may21@gmail.com**
 
